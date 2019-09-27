@@ -1,0 +1,189 @@
+asm,asm,3.1,,
+com.fasterxml.jackson.core,jackson-annotations,2.9.0,The Apache Software License- Version 2.0,http://github.com/FasterXML/jackson
+com.fasterxml.jackson.core,jackson-core,2.9.4,The Apache Software License- Version 2.0,https://github.com/FasterXML/jackson-core
+com.fasterxml.jackson.core,jackson-databind,2.9.4,The Apache Software License- Version 2.0,http://github.com/FasterXML/jackson
+com.fasterxml.jackson.datatype,jackson-datatype-joda,2.9.8,The Apache Software License- Version 2.0,http://wiki.fasterxml.com/JacksonModuleJoda
+com.github.javafaker,javafaker,0.18,The Apache Software License- Version 2.0,http://github.com/DiUS/java-faker
+com.github.jnr,jffi,1.2.15,The Apache Software License- Version 2.0,
+com.github.jnr,jnr-constants,0.9.9,The Apache Software License- Version 2.0,
+com.github.jnr,jnr-enxio,0.17,The Apache Software License- Version 2.0,
+com.github.jnr,jnr-ffi,2.1.4,The Apache Software License- Version 2.0,
+com.github.jnr,jnr-posix,3.0.45,Eclipse Public License - v 1.0,
+com.github.jnr,jnr-unixsocket,0.19,The Apache Software License- Version 2.0,
+com.github.jnr,jnr-x86asm,1.0.2,MIT License,
+com.github.microsoft,TSS.Java,0.2.0,MIT License,http://github.com/Microsoft/TSS.MSR/
+com.github.mifmif,generex,1.0.2,The Apache Software License- Version 2.0,https://github.com/mifmif/Generex/tree/master
+com.github.stephenc.jcip,jcip-annotations,1.0-1,Apache License- Version 2.0,http://stephenc.github.com/jcip-annotations
+com.google.code.gson,gson,2.7,Apache 2.0,
+com.google.guava,guava,19.0,The Apache Software License- Version 2.0,
+com.mashape.unirest,unirest-java,1.4.9,MIT,http://unirest.io/
+com.microsoft.azure.sdk.iot.provisioning.security,security-provider,1.2.0,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot.provisioning.security,tpm-provider,1.1.1,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot.provisioning.security,x509-provider,1.1.0,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot.provisioning,provisioning-device-client,1.5.0,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot.provisioning,provisioning-service-client,1.4.0,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot,iot-deps,0.7.1,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot,iot-device-client,1.14.1,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure.sdk.iot,iot-service-client,1.15.1,MIT License,http://azure.github.io/azure-iot-sdk-java/
+com.microsoft.azure,adal4j,1.6.2,MIT License,https://github.com/AzureAD/azure-activedirectory-library-for-java
+com.microsoft.azure,azure-annotations,1.7.0,The MIT License (MIT),https://github.com/Microsoft/java-api-annotations
+com.microsoft.azure,azure-client-authentication,1.6.10,The MIT License (MIT),https://github.com/Azure/autorest-clientruntime-for-java
+com.microsoft.azure,azure-client-runtime,1.6.10,The MIT License (MIT),https://github.com/Azure/autorest-clientruntime-for-java
+com.microsoft.azure,azure-eventhubs,2.3.2,MIT license,
+com.microsoft.azure,azure-keyvault-core,0.8.0,The Apache Software License- Version 2.0,https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-keyvault-webkey,1.0.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-keyvault,1.0.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-appservice,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-batch,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-batchai,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-cdn,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-compute,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-containerinstance,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-containerregistry,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-containerservice,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-cosmosdb,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-dns,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-eventhub,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-graph-rbac,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-keyvault,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-locks,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-monitor,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-msi,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-network,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-redis,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-resources,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-search,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-servicebus,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-sql,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-storage,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-mgmt-trafficmanager,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,azure-servicebus,2.0.0,The MIT License (MIT),https://github.com/Azure/azure-service-bus-java
+com.microsoft.azure,azure-storage,6.1.0,The Apache Software License- Version 2.0,https://github.com/Azure/azure-storage-java
+com.microsoft.azure,azure,1.23.0,The MIT License (MIT),https://github.com/Azure/azure-sdk-for-java
+com.microsoft.azure,qpid-proton-j-extensions,1.2.0,MIT license,https://github.com/Azure/qpid-proton-j-extensions
+com.microsoft.msr,DiceRIoTEmulator,1.0,MIT License,http://github.com/Microsoft/RIoT/
+com.microsoft.rest,client-runtime,1.6.10,The MIT License (MIT),https://github.com/Azure/autorest-clientruntime-for-java
+com.nimbusds,lang-tag,1.4.4,The Apache Software License- Version 2.0,https://bitbucket.org/connect2id/nimbus-language-tags
+com.nimbusds,nimbus-jose-jwt,7.5.1,The Apache Software License- Version 2.0,https://bitbucket.org/connect2id/nimbus-jose-jwt
+com.nimbusds,oauth2-oidc-sdk,5.64.4,Apache License- version 2.0,https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions
+com.pi4j,pi4j-core,1.1,GNU General Lesser Public License (LGPL) version 3.0,
+com.rabbitmq,amqp-client,5.5.1,ASL 2.0,http://www.rabbitmq.com
+com.squareup.okhttp3,logging-interceptor,3.11.0,Apache 2.0,
+com.squareup.okhttp3,okhttp-urlconnection,3.11.0,Apache 2.0,
+com.squareup.okhttp3,okhttp,3.11.0,Apache 2.0,
+com.squareup.okio,okio,1.14.0,Apache 2.0,
+com.squareup.retrofit2,adapter-rxjava,2.4.0,Apache 2.0,
+com.squareup.retrofit2,converter-jackson,2.5.0,Apache 2.0,
+com.squareup.retrofit2,retrofit,2.5.0,Apache 2.0,
+com.sun.activation,javax.activation,1.2.0,CDDL/GPLv2+CE,
+com.sun.jersey.contribs,jersey-multipart,1.18.1,CDDL 1.1,
+com.sun.jersey,jersey-bundle,1.19,CDDL 1.1,
+com.sun.jersey,jersey-client,1.18,CDDL 1.1,
+com.sun.jersey,jersey-core,1.18.1,CDDL 1.1,
+com.sun.jersey,jersey-json,1.18,CDDL 1.1,
+com.sun.jersey,jersey-server,1.18,CDDL 1.1,
+com.sun.jersey,jersey-servlet,1.18,CDDL 1.1,
+com.sun.mail,javax.mail,1.6.1,CDDL/GPLv2+CE,
+com.sun.xml.bind,jaxb-impl,2.2.3-1,CDDL 1.1,
+com.typesafe.netty,netty-reactive-streams,2.0.0,Apache 2,
+commons-codec,commons-codec,1.11,Apache License- Version 2.0,http://commons.apache.org/proper/commons-codec/
+commons-io,commons-io,2.1,The Apache Software License- Version 2.0,
+commons-logging,commons-logging,1.2,The Apache Software License- Version 2.0,
+dk.brics.automaton,automaton,1.11-8,BSD,
+io.netty,netty-buffer,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-codec-dns,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-codec-http,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-codec-socks,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-codec,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-common,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-handler-proxy,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-handler,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-resolver-dns,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-resolver,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-transport-native-epoll,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-transport-native-unix-common,4.1.27.Final,Apache License- Version 2.0,
+io.netty,netty-transport,4.1.27.Final,Apache License- Version 2.0,
+io.reactivex,rxjava,1.3.0,The Apache Software License- Version 2.0,
+javax.activation,activation,1.1,Common Development and Distribution License (CDDL) v1.0,
+javax.annotation,javax.annotation-api,1.2,CDDL + GPLv2 with classpath exception,
+javax.json,javax.json-api,1.1.3,Dual license consisting of the CDDL v1.1 and GPL v2,https://javaee.github.io/jsonp
+javax.mail,mail,1.4.3,CDDL,
+javax.servlet,javax.servlet-api,3.1.0,CDDL + GPLv2 with classpath exception,http://servlet-spec.java.net
+javax.ws.rs,jsr311-api,1.1.1,CDDL License,https://jsr311.dev.java.net
+javax.xml.bind,jaxb-api,2.3.0,CDDL 1.1,
+joda-time,joda-time,2.1,Apache 2,http://joda-time.sourceforge.net
+log4j,log4j,1.2.17,The Apache Software License- Version 2.0,http://logging.apache.org/log4j/1.2/
+net.java.dev.jna,jna,4.4.0,LGPL- version 2.1,
+net.jcip,jcip-annotations,1.0,,http://stephenc.github.com/jcip-annotations
+net.minidev,accessors-smart,1.2,The Apache Software License- Version 2.0,http://www.minidev.net/
+net.minidev,json-smart,2.3,The Apache Software License- Version 2.0,http://www.minidev.net/
+net.sf.ehcache,ehcache-core,2.4.3,The Apache Software License- Version 2.0,http://ehcache.org
+org.apache.commons,commons-collections4,4.1,Apache License- Version 2.0,http://commons.apache.org/proper/commons-collections/
+org.apache.commons,commons-lang3,3.7,Apache License- Version 2.0,http://commons.apache.org/proper/commons-lang/
+org.apache.httpcomponents,httpasyncclient,4.1.1,Apache License- Version 2.0,http://hc.apache.org/httpcomponents-asyncclient
+org.apache.httpcomponents,httpclient,4.5.5,Apache License- Version 2.0,http://hc.apache.org/httpcomponents-client
+org.apache.httpcomponents,httpcore-nio,4.4.10,Apache License- Version 2.0,http://hc.apache.org/httpcomponents-core-ga
+org.apache.httpcomponents,httpcore,4.4.9,Apache License- Version 2.0,http://hc.apache.org/httpcomponents-core-ga
+org.apache.httpcomponents,httpmime,4.5,Apache License- Version 2.0,http://hc.apache.org/httpcomponents-client
+org.apache.qpid,proton-j,0.31.0,Apache License- Version 2.0,
+org.asynchttpclient,async-http-client-netty-utils,2.5.2,Apache License 2.0,
+org.asynchttpclient,async-http-client,2.5.2,Apache License 2.0,
+org.bouncycastle,bcmail-jdk15on,1.53,Bouncy Castle Licence,
+org.bouncycastle,bcpkix-jdk15on,1.53,Bouncy Castle Licence,
+org.bouncycastle,bcprov-jdk15on,1.57,Bouncy Castle Licence,
+org.codeartisans,org.json,20131017,MIT,http://github.com/eskatos/org.json-java
+org.codehaus.jackson,jackson-core-asl,1.9.2,The Apache Software License- Version 2.0,
+org.codehaus.jackson,jackson-jaxrs,1.9.2,The Apache Software License- Version 2.0,
+org.codehaus.jackson,jackson-mapper-asl,1.9.2,The Apache Software License- Version 2.0,
+org.codehaus.jackson,jackson-xc,1.9.2,The Apache Software License- Version 2.0,
+org.codehaus.jettison,jettison,1.1,,
+org.eclipse.jetty.orbit,javax.security.auth.message,1.0.0.v201108011116,Apache Software License - Version 2.0,
+org.eclipse.jetty.toolchain,jetty-schemas,3.1.RC0,Apache Software License - Version 2.0,
+org.eclipse.jetty,jetty-annotations,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-client,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-continuation,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-deploy,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-http,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-io,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-jaas,9.1.0.v20131115,Apache Software License - Version 2.0,
+org.eclipse.jetty,jetty-jaspi,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-jmx,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-jndi,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-jsp-2.1,7.5.4.v20111024,Apache Software License - Version 2.0,
+org.eclipse.jetty,jetty-plus,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-proxy,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-rewrite,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-security,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-server,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-servlet,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-servlets,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-util,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-webapp,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.jetty,jetty-xml,9.1.0.v20131115,Apache Software License - Version 2.0,http://www.eclipse.org/jetty
+org.eclipse.paho,org.eclipse.paho.client.mqttv3,1.2.0,Eclipse Public License - Version 1.0,
+org.glassfish,javax.json,1.1.3,Dual license consisting of the CDDL v1.1 and GPL v2,https://javaee.github.io/jsonp
+org.hdrhistogram,HdrHistogram,2.1.8,Public Domain- per Creative Commons CC0,http://hdrhistogram.github.io/HdrHistogram/
+org.javassist,javassist,3.18.1-GA,MPL 1.1,http://www.javassist.org/
+org.jboss.logging,jboss-logging,3.1.3.GA,Apache License- version 2.0,http://www.jboss.org
+org.jboss.resteasy,jaxrs-api,3.0.8.Final,Apache License- Version 2.0,
+org.jboss.resteasy,resteasy-common,1.0-beta-8,GNU LESSER GENERAL PUBLIC LICENSE,
+org.jboss.resteasy,resteasy-jaxrs,3.0.8.Final,Apache License- Version 2.0,
+org.jboss.spec.javax.annotation,jboss-annotations-api_1.1_spec,1.0.1.Final,CDDL or GPLv2 with exceptions,
+org.jboss.spec.javax.transaction,jboss-transaction-api_1.2_spec,1.0.0.Final,Common Development and Distribution License,
+org.json,json,20140107,The JSON License,https://github.com/douglascrockford/JSON-java
+org.jvnet.mimepull,mimepull,1.9.3,CDDL 1.1,
+org.mortbay.jetty,jetty-util,6.0.1,Apache License Version 2.0,http://www.eclipse.org/jetty
+org.mortbay.jetty,jetty,6.0.1,Apache License Version 2.0,http://jetty.mortbay.org
+org.mortbay.jetty,servlet-api-2.5,6.0.1,Apache License Version 1.1,
+org.ow2.asm,asm-analysis,5.0.3,BSD,
+org.ow2.asm,asm-commons,4.1,BSD,
+org.ow2.asm,asm-tree,4.1,BSD,
+org.ow2.asm,asm-util,5.0.3,BSD,
+org.ow2.asm,asm,5.0.4,BSD,
+org.reactivestreams,reactive-streams,1.0.2,CC0,
+org.slf4j,slf4j-api,1.7.25,MIT License,http://www.slf4j.org
+org.slf4j,slf4j-log4j12,1.7.25,MIT License,http://www.slf4j.org
+org.slf4j,slf4j-simple,1.7.25,MIT License,http://www.slf4j.org
+org.snmp4j,snmp4j,2.5.6,Apache 2,http://www.snmp4j.org
+org.yaml,snakeyaml,1.23,Apache License- Version 2.0,
+stax,stax-api,1.0.1,The Apache Software License- Version 2.0,
