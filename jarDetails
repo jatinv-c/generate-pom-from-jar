@@ -56,12 +56,12 @@ public class JarDetails {
                 })
                 .filter(Objects::nonNull)
                 .forEach(properties -> {
-                    System.out.println("<depencency>");
+                    System.out.println("<dependency>");
                     System.out.println("    <groupId>" + properties.getProperty("groupId") + "</groupId>");
                     System.out.println("    <artifactId>" + properties.getProperty("artifactId") + "</artifactId>");
                     System.out.println("    <version>" + properties.getProperty("version") + "</version>");
                     System.out.println("    <license>" + properties.getProperty("version") + "</license>");
-                    System.out.println("</depencency>");
+                    System.out.println("</dependency>");
                     jarNameList.add(properties.getProperty("groupId"));
                 });
 
