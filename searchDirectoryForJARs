@@ -1,0 +1,35 @@
+public class ReadJARs {
+    
+    public static void main(String[] args) {
+        searchFolder(new File("C:\\Users\\Vikram.Tamboli\\Documents\\Bluelink_Setup\\Bluelink\\app\\lib"));
+        System.out.println("COunt - " + count);
+    }
+
+    public static int count = 0;
+
+    public static void searchFolder(File file) {
+        if (file.isDirectory()) {
+            File dirContent[] = file.listFiles();
+            if (dirContent != null) {
+                for (File file1 : dirContent) {
+                    searchFolder(file1);
+                }
+            }
+        } else {
+            String fullName = file.getName();
+            String jarName = null;
+            String version = null;
+            if (fullName.contains("-")) {
+                jarName = fullName.substring(0, fullName.lastIndexOf("-"));
+             version = fullName.substring(fullName.lastIndexOf("-") + 1, fullName.lastIndexOf("."));
+            }else{
+                jarName = fullName.substring(0, fullName.lastIndexOf("."));
+                version = "NA";
+            }
+             
+            System.out.println(jarName + " ------ " + version);
+
+            count++;
+        }
+    }
+}
